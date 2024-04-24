@@ -8,6 +8,13 @@ Code is coming soon
 * Pred mask of PVN3D on YCB-Video dataset [[link](https://drive.google.com/file/d/1ftLn9itGQtjx5QM7SfOousIL44olIcm9/view?usp=sharing)]
 * Pred mask of HybirdPose on LineMOD Occlusion dataset [[link](https://drive.google.com/file/d/1Jwp-J6opAAvtbMV1ewzhpBLoSjmZoMVJ/view)]
 
+## Requirements
+* Open3D==0.16.0
+* python==3.7.13
+* OpenCV==4.6.0
+* Pytorch==1.7.0
+* CUDA==11.4
+  
 ## Train
 Pre-trained models are provided ([Download](https://pan.baidu.com/s/1fiQR-c0Kzo_U6f1QdJM3TQ))
 
